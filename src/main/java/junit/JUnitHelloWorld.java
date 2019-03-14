@@ -1,5 +1,5 @@
 package junit;
-//test1
+//test2
 public class JUnitHelloWorld {
 
 	public boolean isGreater(int num1, int num2){
